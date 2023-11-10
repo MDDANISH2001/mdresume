@@ -382,6 +382,7 @@ a{
 
 /* Projects */
 #projects .card{
+    text-align: justify;
     color: black;
     margin-bottom: 30px;
     overflow: hidden;
